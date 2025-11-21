@@ -12,7 +12,7 @@ import PricingPlan from "./PricingPlan";
 import OurBlog from "./OurBlog";
 import DigitalWorld from "./DigitalWorld";
 
-const Homes = () => {
+const Home = () => {
   return (
     <div className="z-10 text-[#271A3C] max-w-[100vw] overflow-hidden">
       <Navber />
@@ -30,4 +30,4 @@ const Homes = () => {
   );
 };
 
-export default Homes;
+export default Home;
