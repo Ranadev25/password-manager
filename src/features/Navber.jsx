@@ -4,7 +4,7 @@ import { IoIosArrowDown } from "react-icons/io";
 import { RiMenu3Fill } from "react-icons/ri";
 import { MdArrowOutward } from "react-icons/md";
 
-import HeaderLogo8 from "../../src/assets/header-Logo8.png";
+import headerLogo8 from "../../src/assets/header-Logo8.png";
 import "./Navber.css";
 import Demo1 from "../../src/assets/demo1.jpg";
 import Demo2 from "../../src/assets/demo2.jpg";
@@ -24,7 +24,7 @@ const Navber = () => {
   return (
     <div className=" shadow sticky top-0 z-50   bg-gradient-to-r from-[#712EFE] to-[#D227F7] pt-2 ">
       <nav className="flex px-5 relative md:px-10 lg:px-20 justify-between z-50 items-center text-lg bg-white ">
-        <img className="py-3" src={HeaderLogo8} alt="" />
+        <img className="py-3" src={headerLogo8} alt="" />
 
         {/* toggle menu icon */}
         <div onClick={() => setMenuOpen(true)} className="lg:hidden text-3xl">
