@@ -5,7 +5,7 @@ import { RiMenu3Fill } from "react-icons/ri";
 import { RxCross1 } from "react-icons/rx";
 import { MdArrowOutward } from "react-icons/md";
 
-import HeaderLogo8 from "../../assets/header-Logo2.png";
+import headerLogo8 from "../../../src/assets/header-Logo2.png";
 import "./Navber.css";
 import Demo1 from "../../assets/demo1.jpg";
 import Demo2 from "../../assets/demo2.jpg";
@@ -25,7 +25,7 @@ const Navber = () => {
   return (
     <div className=" z-50 sticky top-0 w-full  border-[#dddddd83]  bg-gradient-to-r from-[#712EFE] to-[#D227F7] pt-2 ">
       <nav className="flex px-5 relative md:px-10 lg:px-18 justify-between z-50 items-center text-lg bg-[#F5F8FF]">
-        <img className="py-3" src={HeaderLogo8} alt="" />
+        <img className="py-3" src={headerLogo8} alt="" />
 
         {/* toggle menu icon */}
         <div
