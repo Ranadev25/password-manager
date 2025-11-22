@@ -8,7 +8,7 @@ import Logoimg1 from "../../src/assets/footer-icon1.png";
 import Logoimg2 from "../../src/assets/footer-icon2.png";
 import Logoimg3 from "../../src/assets/footer-icon3.png";
 
-import headerLogo8 from "../../src/assets/header-Logo8.png";
+import headerLogo8 from "../assets/header-Logo8.png";
 
 const Footer = () => {
   return (
@@ -323,6 +323,7 @@ const Footer = () => {
         <div>
           <img src={headerLogo8} alt="Logo image" />
         </div>
+
         <div className="sm:flex gap-3 my-5 leading-5 max-sm:leading-10">
           <p className=" sm:border-r-2 pr-3 border-[#4e4d6197]">@2025 eSoft</p>
           <p className=" sm:border-r-2 pr-3 border-[#4e4d6197]">Security</p>
