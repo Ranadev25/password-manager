@@ -7,7 +7,7 @@ import { FaLinkedinIn, FaYoutube } from "react-icons/fa";
 import Logoimg1 from "../../../src/assets/footer-icon1.png";
 import Logoimg2 from "../../../src/assets/footer-icon2.png";
 import Logoimg3 from "../../../src/assets/footer-icon3.png";
-import HeaderLogo2 from "../../assets/header-logo2.png";
+import headerLogo2 from "../../assets/header-logo2.png";
 
 const Footer = () => {
   return (
@@ -320,7 +320,7 @@ const Footer = () => {
       </div>
       <div className="sm:flex justify-between items-center mx-auto w-[95%] max-md:mt-20 sm:w-[90%] py-3 md:w-[85%] lg:w-[90%] text-[17px] text-[#4E4D61]">
         <div>
-          <img src={HeaderLogo2} alt="" />
+          <img src={headerLogo2} alt="" />
         </div>
         <div className="sm:flex gap-3 my-5 leading-5 max-sm:leading-10">
           <p className=" sm:border-r-2 pr-3 border-[#4e4d6197]">@2025 eSoft</p>
