@@ -17,8 +17,6 @@ import Login from "./accounts/Login";
 import Reset from "./accounts/Reset";
 import Verify_Email from "./accounts/Verify_Email";
 import Success from "./accounts/Success";
-import Navber from "./features/Navber";
-import Footer from "./features/Footer";
 
 function App() {
   return (
