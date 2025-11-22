@@ -7,7 +7,7 @@ import { FaLinkedinIn, FaYoutube } from "react-icons/fa";
 import Logoimg1 from "../../../src/assets/footer-icon1.png";
 import Logoimg2 from "../../../src/assets/footer-icon2.png";
 import Logoimg3 from "../../../src/assets/footer-icon3.png";
-import HeaderLogo2 from "../../../src/assets/header-logo2.png";
+import HeaderLogo2 from "../../assets/header-logo2.png";
 
 const Footer = () => {
   return (
