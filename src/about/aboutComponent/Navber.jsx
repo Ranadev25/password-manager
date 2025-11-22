@@ -5,7 +5,7 @@ import { RiMenu3Fill } from "react-icons/ri";
 import { RxCross1 } from "react-icons/rx";
 import { MdArrowOutward } from "react-icons/md";
 
-import HeaderLogo8 from "../../assets/header-Logo2.png";
+import HeaderLogo8 from "../../assets/assets/header-Logo2.png";
 import "./Navber.css";
 import Demo1 from "../../assets/demo1.jpg";
 import Demo2 from "../../assets/demo2.jpg";
