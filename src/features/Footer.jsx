@@ -8,7 +8,7 @@ import Logoimg1 from "../../src/assets/footer-icon1.png";
 import Logoimg2 from "../../src/assets/footer-icon2.png";
 import Logoimg3 from "../../src/assets/footer-icon3.png";
 
-import headerLogo from "../../src/assets/header-Logo8.png";
+import headerLogo1 from "../../src/assets/header-Logo8.png";
 
 const Footer = () => {
   return (
@@ -321,7 +321,7 @@ const Footer = () => {
       </div>
       <div className="sm:flex justify-between items-center mx-auto w-[95%] max-md:mt-20 sm:w-[90%] py-3 md:w-[85%] lg:w-[90%] text-[17px] text-[#4E4D61]">
         <div>
-          <img src={headerLogo} alt="Logo image" />
+          <img src={headerLogo1} alt="Logo image" />
         </div>
 
         <div className="sm:flex gap-3 my-5 leading-5 max-sm:leading-10">
